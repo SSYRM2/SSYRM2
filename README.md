@@ -12,6 +12,9 @@ pkg install git
 # Depoyu klonlayın
 git clone https://github.com/SSYRM2/SSYRM2
 
+# Toolu etkinleştirelim
+cd SSYRM2
+
 # Yetkileri düzenleyin
 chmod 777 *
 
